@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="H:/modules/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-aop-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-aspects-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-beans-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-context-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-context-indexer-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-context-support-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-core-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-expression-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-instrument-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-jcl-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-jdbc-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-jms-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-messaging-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-orm-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-oxm-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-test-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-tx-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-web-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-webflux-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-webmvc-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/modules/spring-websocket-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
